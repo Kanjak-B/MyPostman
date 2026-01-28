@@ -103,7 +103,7 @@ class RequestTab(QtWidgets.QWidget):
         self.method_combo.addItems(["GET", "POST", "PUT", "PATCH", "DELETE"])
         self.url_input = QtWidgets.QLineEdit()
         self.url_input.setPlaceholderText("https://api.example.com/v1/resource")
-        self.url_input.setText("http://127.0.0.1:8000/api/")
+        self.url_input.setText("http://127.0.0.1:8001/api/")
         self.env_combo = QtWidgets.QComboBox()
         self.env_combo.setMinimumWidth(180)
         self.format_btn = QtWidgets.QPushButton("Format JSON")
