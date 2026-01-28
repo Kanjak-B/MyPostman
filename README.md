@@ -1,4 +1,8 @@
-# MyPostman
+# Kanjakitude - MyPostman
+# @author : Kanjak
+# @email : kanjak.breniacs@gmail.com
+# @portfolio : kanjak-b.github.io/kanjakitude
+# copyright kanjakitude 2026 All right reserved
 
 Postman-like local tool for testing REST APIs with a Python backend (FastAPI) and desktop UI (PySide6).
 
